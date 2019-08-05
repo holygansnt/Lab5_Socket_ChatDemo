@@ -1,0 +1,176 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\holyg\Downloads\lab6\soketdemo-recyclerview\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\holyg\Downloads\lab6\soketdemo-recyclerview\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\holyg\Downloads\lab6\soketdemo-recyclerview\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\holyg\Downloads\lab6\soketdemo-recyclerview\app\src\main\AndroidManifest.xml:2:1-26:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\04e1c10eb52660e94f473301af1678d1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\4f9ced9ffad1f8a40752c02288a3836c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\2b45bc227c69267ada02b55c6ae30af0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\f741a120570f1dd45f88ad206f0f119f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\7bff5cb650d559a81cee744596bc6df7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\d0a077e0d2ef144ca864feb3e50b0a39\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\c934e49a0e6e534676a1485964763314\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\fd558808e16eb63bf0b2bd0c25f14c56\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\175c170cd3894271a5c859b50ad13255\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\76188a613dd2e93766d602eb458dcd45\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\8fd99069d993da617a22bfff46e5db6d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\5f1f256964d79e031cf1ec01b8f4c145\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\98e6eec2774d6ce31cc9c03e43b3e59c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\1e7b2fc3fac1ea1249aa7efed98403fa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\6663afccbaf18fde70ceb053c9554917\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\c9f3d341c5d5436d0834588d9d47a9e5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\ee1aede04e1d2bf6e6b45c5613ce23fd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\4a7ef4519a451d6596e09eb7543bb262\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\667e27d72175266c2130dd005524ffee\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\6330d425a4ccefee349f5f58d2f4aa17\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\aa30a57e12971f3c54eeae6d71e02d2d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\a5b987f389c387fb1c32ca2e9e195d23\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\6c99f715c1d732156eec918459612fe6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\3b410758b77a804cad3bd065d6ba1b13\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\ecc76eb97a115361cfd8163e9712274e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\c3b518f1b80df47ebb6ac3128b83b480\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\4c07769b14eb4a72ae63d5a9b0434d8a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\41a8a2d8df7f24e50001b2809b91c9db\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\1c67a8f34b807a4b181b71b16ec2a1a3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\ed78488bb44942e03b6570843f6ad404\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\e536606bd13a46d8d529adc58f573973\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\holyg\Downloads\lab6\soketdemo-recyclerview\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\holyg\Downloads\lab6\soketdemo-recyclerview\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\holyg\Downloads\lab6\soketdemo-recyclerview\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from C:\Users\holyg\Downloads\lab6\soketdemo-recyclerview\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from C:\Users\holyg\Downloads\lab6\soketdemo-recyclerview\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\holyg\Downloads\lab6\soketdemo-recyclerview\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\holyg\Downloads\lab6\soketdemo-recyclerview\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\holyg\Downloads\lab6\soketdemo-recyclerview\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\Users\holyg\Downloads\lab6\soketdemo-recyclerview\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\holyg\Downloads\lab6\soketdemo-recyclerview\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\holyg\Downloads\lab6\soketdemo-recyclerview\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\Users\holyg\Downloads\lab6\soketdemo-recyclerview\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\holyg\Downloads\lab6\soketdemo-recyclerview\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\holyg\Downloads\lab6\soketdemo-recyclerview\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\holyg\Downloads\lab6\soketdemo-recyclerview\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\holyg\Downloads\lab6\soketdemo-recyclerview\app\src\main\AndroidManifest.xml:7:5-24:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\04e1c10eb52660e94f473301af1678d1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\04e1c10eb52660e94f473301af1678d1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\2b45bc227c69267ada02b55c6ae30af0\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\2b45bc227c69267ada02b55c6ae30af0\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\667e27d72175266c2130dd005524ffee\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\667e27d72175266c2130dd005524ffee\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\6330d425a4ccefee349f5f58d2f4aa17\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\6330d425a4ccefee349f5f58d2f4aa17\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\667e27d72175266c2130dd005524ffee\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\holyg\Downloads\lab6\soketdemo-recyclerview\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Users\holyg\Downloads\lab6\soketdemo-recyclerview\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from C:\Users\holyg\Downloads\lab6\soketdemo-recyclerview\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from C:\Users\holyg\Downloads\lab6\soketdemo-recyclerview\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Users\holyg\Downloads\lab6\soketdemo-recyclerview\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Users\holyg\Downloads\lab6\soketdemo-recyclerview\app\src\main\AndroidManifest.xml:13:9-40
+activity#vn.edu.poly.socketdemo.MainActivity
+ADDED from C:\Users\holyg\Downloads\lab6\soketdemo-recyclerview\app\src\main\AndroidManifest.xml:14:9-23:20
+	android:label
+		ADDED from C:\Users\holyg\Downloads\lab6\soketdemo-recyclerview\app\src\main\AndroidManifest.xml:16:13-45
+	android:theme
+		ADDED from C:\Users\holyg\Downloads\lab6\soketdemo-recyclerview\app\src\main\AndroidManifest.xml:17:13-56
+	android:name
+		ADDED from C:\Users\holyg\Downloads\lab6\soketdemo-recyclerview\app\src\main\AndroidManifest.xml:15:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\holyg\Downloads\lab6\soketdemo-recyclerview\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\holyg\Downloads\lab6\soketdemo-recyclerview\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from C:\Users\holyg\Downloads\lab6\soketdemo-recyclerview\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\holyg\Downloads\lab6\soketdemo-recyclerview\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from C:\Users\holyg\Downloads\lab6\soketdemo-recyclerview\app\src\main\AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from C:\Users\holyg\Downloads\lab6\soketdemo-recyclerview\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\holyg\Downloads\lab6\soketdemo-recyclerview\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\holyg\Downloads\lab6\soketdemo-recyclerview\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\04e1c10eb52660e94f473301af1678d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\04e1c10eb52660e94f473301af1678d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\4f9ced9ffad1f8a40752c02288a3836c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\4f9ced9ffad1f8a40752c02288a3836c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\2b45bc227c69267ada02b55c6ae30af0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\2b45bc227c69267ada02b55c6ae30af0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\f741a120570f1dd45f88ad206f0f119f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\f741a120570f1dd45f88ad206f0f119f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\7bff5cb650d559a81cee744596bc6df7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\7bff5cb650d559a81cee744596bc6df7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\d0a077e0d2ef144ca864feb3e50b0a39\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\d0a077e0d2ef144ca864feb3e50b0a39\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\c934e49a0e6e534676a1485964763314\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\c934e49a0e6e534676a1485964763314\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\fd558808e16eb63bf0b2bd0c25f14c56\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\fd558808e16eb63bf0b2bd0c25f14c56\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\175c170cd3894271a5c859b50ad13255\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\175c170cd3894271a5c859b50ad13255\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\76188a613dd2e93766d602eb458dcd45\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\76188a613dd2e93766d602eb458dcd45\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\8fd99069d993da617a22bfff46e5db6d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\8fd99069d993da617a22bfff46e5db6d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\5f1f256964d79e031cf1ec01b8f4c145\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\5f1f256964d79e031cf1ec01b8f4c145\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\98e6eec2774d6ce31cc9c03e43b3e59c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\98e6eec2774d6ce31cc9c03e43b3e59c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\1e7b2fc3fac1ea1249aa7efed98403fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\1e7b2fc3fac1ea1249aa7efed98403fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\6663afccbaf18fde70ceb053c9554917\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\6663afccbaf18fde70ceb053c9554917\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\c9f3d341c5d5436d0834588d9d47a9e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\c9f3d341c5d5436d0834588d9d47a9e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\ee1aede04e1d2bf6e6b45c5613ce23fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\ee1aede04e1d2bf6e6b45c5613ce23fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\4a7ef4519a451d6596e09eb7543bb262\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\4a7ef4519a451d6596e09eb7543bb262\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\667e27d72175266c2130dd005524ffee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\667e27d72175266c2130dd005524ffee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\6330d425a4ccefee349f5f58d2f4aa17\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\6330d425a4ccefee349f5f58d2f4aa17\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\aa30a57e12971f3c54eeae6d71e02d2d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\aa30a57e12971f3c54eeae6d71e02d2d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\a5b987f389c387fb1c32ca2e9e195d23\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\a5b987f389c387fb1c32ca2e9e195d23\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\6c99f715c1d732156eec918459612fe6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\6c99f715c1d732156eec918459612fe6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\3b410758b77a804cad3bd065d6ba1b13\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\3b410758b77a804cad3bd065d6ba1b13\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\ecc76eb97a115361cfd8163e9712274e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\ecc76eb97a115361cfd8163e9712274e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\c3b518f1b80df47ebb6ac3128b83b480\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\c3b518f1b80df47ebb6ac3128b83b480\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\4c07769b14eb4a72ae63d5a9b0434d8a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\4c07769b14eb4a72ae63d5a9b0434d8a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\41a8a2d8df7f24e50001b2809b91c9db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\41a8a2d8df7f24e50001b2809b91c9db\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\1c67a8f34b807a4b181b71b16ec2a1a3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\1c67a8f34b807a4b181b71b16ec2a1a3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\ed78488bb44942e03b6570843f6ad404\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\ed78488bb44942e03b6570843f6ad404\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\e536606bd13a46d8d529adc58f573973\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\holyg\.gradle\caches\transforms-2\files-2.1\e536606bd13a46d8d529adc58f573973\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\holyg\Downloads\lab6\soketdemo-recyclerview\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\holyg\Downloads\lab6\soketdemo-recyclerview\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\holyg\Downloads\lab6\soketdemo-recyclerview\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\holyg\Downloads\lab6\soketdemo-recyclerview\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\holyg\Downloads\lab6\soketdemo-recyclerview\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\holyg\Downloads\lab6\soketdemo-recyclerview\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\holyg\Downloads\lab6\soketdemo-recyclerview\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\holyg\Downloads\lab6\soketdemo-recyclerview\app\src\main\AndroidManifest.xml
